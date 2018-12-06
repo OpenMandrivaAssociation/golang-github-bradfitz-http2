@@ -1,0 +1,7 @@
+import:
+- package: golang.org/x/crypto
+  subpackages:
+  - ssh/terminal
+  version: 24ffb5feb3312a39054178a4b0a4554fc2201248
+package: github.com/bradfitz/http2
+
